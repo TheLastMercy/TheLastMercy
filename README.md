@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheLastMercy
 - 👀 I’m interested in Apple, Cars, Calisthenics and Programming
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C++, Java, JS and Python
 - 💞️ I’m looking to collaborate on ... I have not decided yet
 - 📫 How to reach me: DavidVrt2@gmail.com
 
