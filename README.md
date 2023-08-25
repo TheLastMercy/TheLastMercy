@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @TheLastMercy
-- 👀 I’m interested in Apple, Stocks, Calisthenics and Programming
-- 🌱 I’m currently learning C++, Java, JS and Python
-- 💞️ I’m collaborating on fDet
-- 📫 How to reach me: DavidVrt2@gmail.com
+# Hi, I'm David (@TheLastMercy) 👑
 
-<!---
-TheLastMercy/TheLastMercy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a learning software engineer and a full stack developer from Brno, Czech Republic. I am interested in new technologies in the market, money appreciation through long-term investments and healthy lifestyle with exercise.
+
+## Skills in coding
+- 💻 C++, Java, PHP -> basics; Python -> intermediate
+- 🌐 HTML, CSS, JavaScript, TypeScript
+- 📈 Django, React
+- 🛢 MySQL, SQLite, cmd
+- 🎨 Blender, Inventor, Photoshop -> basics
+
+## Projects
+Here are some of the bigger projects I have worked on or contributed to:
+
+- [fDet](https://github.com/ByteSpiritGit/fdet): Fake statement detection powered by AI
+
+## Where to find me / Contact
+- 🌐 Personal website: ®️-
+- 💲Social networks: [LinkedIn](https://www.linkedin.com/in/vrtilek-david/), [Instagram](https://www.instagram.com/_davydeq_/), [Facebook](https://www.facebook.com/TheLastMercy/), [Twitter](https://twitter.com/_TheLastMercy_/), [YouTube](https://www.youtube.com/@thelastmercy/), [Codecademy](https://www.codecademy.com/profiles/TheLastMercy/), [Credly](https://www.credly.com/users/vrtilek-david/badges)
+- 📧 Email: DavidVrt2@gmail.com
+  
+**Feel free to reach out to me.**
+
+💎 Quote of the day: "The Only Easy Day Was Yesterday." 💎
