@@ -15,7 +15,7 @@ Here are some of the bigger projects I have worked on or contributed to:
 - [fDet](https://github.com/ByteSpiritGit/fdet): Fake statement detection powered by AI
 
 ## Where to find me / Contact
-- 🌐 Personal website: ®️-
+- 🌐 Personal website: [David/TheLastMercy](https://thelastmercy.github.io)
 - 💲Social networks: [LinkedIn](https://www.linkedin.com/in/vrtilek-david/), [Instagram](https://www.instagram.com/_davydeq_/), [Facebook](https://www.facebook.com/TheLastMercy/), [Twitter](https://twitter.com/_TheLastMercy_/), [YouTube](https://www.youtube.com/@thelastmercy/), [Codecademy](https://www.codecademy.com/profiles/TheLastMercy/), [Credly](https://www.credly.com/users/vrtilek-david/badges)
 - 📧 Email: DavidVrt2@gmail.com
   
