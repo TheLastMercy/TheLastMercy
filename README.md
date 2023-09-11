@@ -12,6 +12,7 @@ I'm a learning software engineer and a full stack developer from Brno, Czech Rep
 ## Projects
 Here are some of the bigger projects I have worked on or contributed to:
 
+- [TheLastMercy](https://github.com/TheLastMercy/TheLastMercy.github.io): Personal portfolio website
 - [fDet](https://github.com/ByteSpiritGit/fdet): Fake statement detection powered by AI
 
 ## Where to find me / Contact
