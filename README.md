@@ -1,11 +1,11 @@
 # Hi, I'm David (@TheLastMercy) 👑
 
-I'm a learning software engineer and a full stack developer from Brno, Czech Republic. I am interested in new technologies in the market, money appreciation through long-term investments and healthy lifestyle with exercise.
+I'm a learning software engineer and a full stack developer from Brno, Czech Republic. I am interested in new technologies on the market, money appreciation through long-term investments and healthy lifestyle with exercise.
 
 ## Skills in coding
 - 💻 C++, C#, Java, PHP -> basics; Python -> intermediate
 - 🌐 HTML, CSS, JavaScript, TypeScript
-- 📈 Django, React
+- 📈 Django, React, Tailwind
 - 🛢 MySQL, SQLite, cmd
 - 🎨 Blender, Inventor, Photoshop -> basics
 
