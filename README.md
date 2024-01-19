@@ -14,6 +14,7 @@ Here are some of the bigger projects I have worked on or contributed to:
 
 - [TheLastMercy](https://github.com/TheLastMercy/TheLastMercy.github.io): Personal portfolio website
 - [fDet](https://github.com/ByteSpiritGit/fdet): Fake statement detection powered by AI
+- [PhotoFilters](https://github.com/ByteSpiritGit/PEPEJavaFX): Java GUI for editing photos using created filters
 
 ## Where to find me / Contact
 - 🌐 Personal website: [David/TheLastMercy](https://thelastmercy.github.io)
