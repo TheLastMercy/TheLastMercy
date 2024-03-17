@@ -18,7 +18,7 @@ Here are some of the bigger projects I have worked on or contributed to:
 
 ## Where to find me / Contact
 - 🌐 Personal website: [David/TheLastMercy](https://thelastmercy.github.io)
-- 💲Social networks: [LinkedIn](https://www.linkedin.com/in/vrtilek-david/), [Instagram](https://www.instagram.com/_davydeq_/), [Facebook](https://www.facebook.com/TheLastMercy/), [Twitter](https://twitter.com/_TheLastMercy_/), [YouTube](https://www.youtube.com/@thelastmercy/), [Codecademy](https://www.codecademy.com/profiles/TheLastMercy/), [Credly](https://www.credly.com/users/vrtilek-david/badges)
+- 💲Social networks: [LinkedIn](https://www.linkedin.com/in/vrtilek-david/), [Instagram](https://www.instagram.com/david_vrtilek/), [Facebook](https://www.facebook.com/TheLastMercy/), [Twitter](https://twitter.com/_TheLastMercy_/), [YouTube](https://www.youtube.com/@thelastmercy/), [Codecademy](https://www.codecademy.com/profiles/TheLastMercy/), [Credly](https://www.credly.com/users/vrtilek-david/badges)
 - 📧 Email: DavidVrt2@gmail.com
   
 **Feel free to reach out to me.**
