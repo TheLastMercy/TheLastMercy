@@ -3,7 +3,7 @@
 I'm a learning software engineer and a full stack developer from Brno, Czech Republic. I am interested in new technologies on the market, money appreciation through long-term investments and healthy lifestyle with exercise.
 
 ## Skills in coding
-- 💻 C, C++, C#, Java, PHP -> basics; Python -> intermediate
+- 💻 C, C#, Java, PHP -> basics; Python, C++ -> intermediate
 - 🌐 HTML, CSS, JavaScript, TypeScript
 - 📈 Django, React, Tailwind
 - 🛢 MySQL, SQLite, cmd
@@ -24,4 +24,4 @@ Here are some of the bigger projects I have worked on or contributed to:
   
 **Feel free to reach out to me.**
 
-💎 Quote of the day: "The Only Easy Day Was Yesterday." 💎
+💎 Quote of the day: "VINCIT QUI SE VINCIT." 💎
